@@ -1,8 +1,113 @@
-@import url(reset.css);
+/* @import url(reset.css); */
 
-body{
-  width: ;
+ul {
+  list-style: none;
+  margin-left: 0;
+  padding-left: 0;
 }
-section class="right"{
-  float: right;
+.general {
+  width: 160px;
+  height: 5px;
+  border-radius: 4px;
+  border-color: black;
+  border-style: solid;
+}
+
+#anglais {
+  width: 145px;
+  height: 1px;
+  border-radius: 0px;
+  border-color: black;
+  border-style: solid;
+  background-color: black;
+  margin: 0;
+}
+
+#allemand {
+  width: 40px;
+  height: 1px;
+  border-radius: 0px;
+  border-color: black;
+  border-style: solid;
+  background-color: black;
+  margin: 0;
+}
+
+#office {
+  width: 150px;
+  height: 1px;
+  border-radius: 0px;
+  border-color: black;
+  border-style: solid;
+  background-color: black;
+  margin: 0;
+}
+#html {
+  width: 80px;
+  height: 1px;
+  border-radius: 0px;
+  border-color: black;
+  border-style: solid;
+  background-color: black;
+  margin: 0;
+}
+#javascript {
+  width: 65px;
+  height: 1px;
+  border-radius: 0px;
+  border-color: black;
+  border-style: solid;
+  background-color: black;
+  margin: 0;
+}
+#php {
+  width: 60px;
+  height: 1px;
+  border-radius: 0px;
+  border-color: black;
+  border-style: solid;
+  background-color: black;
+  margin: 0;
+}
+.experiences {
+  border: 1px solid;
+  margin-left: 222px;
+  margin-top: 100px;
+  width: 550px;
+  position: absolute;
+}
+.titre{
+  border: 1px solid;
+  margin-left: 222px;
+  width: 550px;
+  position: absolute;
+}
+.diplomes {
+  border: 1px solid;
+  margin-left: 222px;
+  width: 550px;
+  position: absolute;
+  margin-top: 330px;
+}
+.interet{
+  border: 1px solid;
+  margin-left: 222px;
+  width: 550px;
+  position: absolute;
+  margin-top: 60px;
+}
+.moi {
+  padding-top: 100px;
+  border: 2px solid;
+  border-bottom: 1px solid;
+  width: 218px;
+  background-color: red;
+}
+.competences {
+  border: 2px solid;
+  width: 218px;
+}
+.langues {
+  border: 2px solid;
+  width: 218px;
 }
